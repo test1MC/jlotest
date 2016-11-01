@@ -1,0 +1,3 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultProject Version="1" MasterStylesheet="/Content/Resources/Stylesheets/Styles.css" MasterPageLayout="/Content/Resources/PageLayouts/Default.flpgl" MasterStylesheetOverride="True" xml:lang="en-us" SourceControlBound="true" Comment="This template contains a minimum number of content and project files, including a single topic. It is the best choice for those who want to begin with a skeleton project." SourceControlDatabaseRoot="E:\My Projects\Git Test" SourceControlDatabase="E:\My Projects\Git Test\.git" SourceControlProviderType="Git" ProjectGuid="05a4a924-91ba-4cea-91cd-949d12e251f8">
+</CatapultProject>
